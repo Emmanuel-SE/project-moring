@@ -1,2 +1,2 @@
-# project-moring
+# project-moringa
 1st project
